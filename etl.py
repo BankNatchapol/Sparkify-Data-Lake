@@ -32,6 +32,7 @@ def create_spark_session():
                 .getOrCreate()
     return spark
 
+
 def process_song_data(spark, df, output_data):
     """
     Processing song data to get songs and artists tables and store data in AWS S3 Bucket.
