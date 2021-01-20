@@ -99,7 +99,7 @@ This is my database Star Schema.
 ## Working Processes
 
 ### Installation
-install package with
+install package with.
 > pip install -r requirements.txt
 ### Config files
 create config files for access AWS<br>
